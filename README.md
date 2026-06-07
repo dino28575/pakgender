@@ -8,9 +8,9 @@
 
 ---
 
-Most gender inference libraries (like `genderize.io`) perform poorly on Pakistani names — they mis-classify names like `Shehnaz`, `Maryam`, and `Saifullah` because they are trained almost exclusively on Western data.
+Most gender inference libraries (like `genderize.io`) perform poorly on Pakistani names or require expensive API subscriptions. `pakgender` is a free, offline alternative—standard tools often misclassify names like `Shehnaz`, `Maryam`, and `Saifullah` because they are trained almost exclusively on Western data.
 
-`pakgender` was built specifically for this gap. It uses a three-layer pipeline — dictionary lookup, rule-based suffix/prefix analysis, and a character n-gram ML model — all tuned for Urdu, Arabic, and Persian-origin names written in Roman script.
+`pakgender` was built specifically to bridge this gap. It uses a three-layer pipeline — dictionary lookup, rule-based suffix/prefix analysis, and a character n-gram ML model — all tuned for Urdu, Arabic, and Persian-origin names written in Roman script.
 
 ---
 
@@ -250,4 +250,4 @@ MIT License. See `LICENSE` for details.
 **Sahib Dino** — Data Analyst, Monitoring & Internal Control  
 [dino28575.github.io](https://dino28575.github.io) · [GitHub](https://github.com/dino28575)
 
-Built to solve a real problem: automated gender verification in Pakistani banking records for CBS data quality audits.
+Built to solve a real problem: automated gender verification in Pakistani names records for data quality checks and error resolution.
