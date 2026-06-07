@@ -251,3 +251,9 @@ MIT License. See `LICENSE` for details.
 [dino28575.github.io](https://dino28575.github.io) · [GitHub](https://github.com/dino28575)
 
 Built to solve a real problem: automated gender verification in Pakistani names records for data quality checks and error resolution.
+
+## Acknowledgments
+
+* Designed and conceptualized by Sahib Dino to resolve real-world data quality issues in South Asian pipelines.
+* Built with coding assistance from Claude (Anthropic), showcasing how AI can help rapidly bridge regional gaps in open-source software.
+* Shoutout to the open-source contributors maintaining datasets of Arabic and Urdu names.
