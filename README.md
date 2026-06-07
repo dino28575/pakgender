@@ -16,7 +16,7 @@ Most gender inference libraries (like `genderize.io`) perform poorly on Pakistan
 
 ## Features
 
-- **5,100+ name dictionary** covering Pakistani CBS records and Arabic names
+- **5,100+ name dictionary** covering Pakistani names records and Arabic names
 - **Spelling variant normalisation** — `Aisha`, `Ayesha`, `Aesha` all resolve to the same entry
 - **Honorific stripping** — handles `Muhammad`, `Mst.`, `Ch.`, `Syed`, `Begum`, and 30+ other prefixes
 - **Rule engine** — 25+ suffix patterns (`-ullah`, `-bano`, `-een`, `-naz`, `-uddin`) with confidence scores
